@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InterfaceTest</string>
+    <string name="service_null">Service not connect yet!</string>
+    <string name="result">Result: </string>
+    <string name="result_success">success</string>
+    <string name="result_fail">fail</string>
+    <string name="result_open">open</string>
+    <string name="result_close">close</string>
+    <string name="result_yes">yes</string>
+    <string name="result_no">no</string>
+</resources>
